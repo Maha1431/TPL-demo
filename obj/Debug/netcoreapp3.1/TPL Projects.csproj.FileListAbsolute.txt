@@ -1,0 +1,16 @@
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\TPL Projects.exe
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\TPL Projects.deps.json
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\TPL Projects.runtimeconfig.json
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\TPL Projects.runtimeconfig.dev.json
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\TPL Projects.dll
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\TPL Projects.pdb
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.AssemblyInfo.cs
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.csproj.CoreCompileInputs.cache
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.dll
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.pdb
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\obj\Debug\netcoreapp3.1\TPL Projects.genruntimeconfig.cache
+C:\Users\CSC\source\repos\TPL Projects\TPL Projects\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
